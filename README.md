@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Chess is life and life is chess
-checkers is opp
+I am thechessnoob. I am currently learning CS50. I'm a high school freshman, hoping to become a CS Major in university.
