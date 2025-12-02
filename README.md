@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am thechessnoob. I am currently learning CS50. I'm a high school freshman, hoping to become a CS Major in university.
+checkers is opp chess is life all checkers players are the opps of all time
